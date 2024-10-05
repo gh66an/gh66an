@@ -26,6 +26,9 @@ I'm a passionate developer interested in various fields of technology and progra
 - 📫 How to reach me:
   - Email: gh66an@gmail.com
   - instagram: [@gha5sn](https://www.instagram.com/gha5sn/)
+  - LinkedIn:  [ghassanalmoqbeli](https://linkedin.com/in/ghassanalmoqbeli)
+  - GitHub: [@gh66an](https://github.com/gh66an)
+  - [My Website](https://ghassanalmoqbeli.rf.gd/)
 
 ## Pronouns
 - 😄 Pronouns: He/Him 
