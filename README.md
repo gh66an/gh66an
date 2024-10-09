@@ -11,7 +11,7 @@ I'm a passionate developer interested in various fields of technology and progra
 
 [![GitHub followers](https://img.shields.io/github/followers/gh66an?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/gh66an)
 
-### Skills
+# 💻 Skills:
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@ I'm a passionate developer interested in various fields of technology and progra
   </a>
 </p>
 
-### Socials
+# 🌐 Socials:
 
 <p align="left">
   <a href="https://www.github.com/gh66an" target="_blank" rel="noreferrer">
@@ -90,10 +90,11 @@ I'm a passionate developer interested in various fields of technology and progra
   </a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
 
 <a href="http://www.github.com/gh66an"><img src="https://github-readme-stats.vercel.app/api?username=gh66an&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gh66an's GitHub stats" /></a>
 <a href="http://www.github.com/gh66an"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gh66an&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/gh66an" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh66an&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=gh66an&icon=6&color=1)](https://visitcount.itsvg.in)
