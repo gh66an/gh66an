@@ -10,7 +10,7 @@
 - ✉️ You can contact me at [gh66an@gmail.com](mailto:gh66an@gmail.com)
 - 🧠 I'm learning Flutter and Laravel
 - 🤝 I'm open to collaborating on Open Source Projects
-- 🌟 I'm secretly super man 👾, but... don't tell anyone.
+- 🌟 I'm secretly 👾, but... don't tell anyone.
 
 
 [![GitHub followers](https://img.shields.io/github/followers/gh66an?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/gh66an)
