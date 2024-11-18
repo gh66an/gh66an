@@ -11,6 +11,7 @@
 - 🧠 I'm learning Flutter and Laravel
 - 🤝 I'm open to collaborating on Open Source Projects
 - 🌟 I'm secretly super mario 👾, but... don't tell anyone.
+- https://www.codewars.com/users/gh66an/badges/large
 
 [![GitHub followers](https://img.shields.io/github/followers/gh66an?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/gh66an)
 
